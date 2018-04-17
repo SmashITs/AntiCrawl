@@ -1,3 +1,4 @@
+//Crawler need to execute JS to follow redirect.
 <?php
 echo "No crawling allowed srry!";
 ?>
